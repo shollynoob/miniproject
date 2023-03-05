@@ -12,3 +12,6 @@
 `kubectl run minisite --image=shollynoob/minisite`
 ![image](https://user-images.githubusercontent.com/5302985/222989917-5e66c438-fe39-49b4-a7e5-7189ee7aca52.png)
 
+
+https://blog.knoldus.com/create-kubernetes-manifests-files-quickly/
+
