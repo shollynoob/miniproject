@@ -1,5 +1,7 @@
 # miniproject
 
+Altschool mini project Deploying Minisite to Google kubernates via image from Docker hub
+
 
 kubectl create -f miniproject-deployment.yaml
 
@@ -18,6 +20,8 @@ kubectl get svc
 
 Viewing site on external IP
 ![image](https://user-images.githubusercontent.com/5302985/224512964-163315f0-39f5-449c-9e73-3b52eb72d456.png)
+ 
+![image](https://user-images.githubusercontent.com/5302985/224513104-2329d17c-7cd6-4812-83a5-0a7732100a2e.png)
 
 
 
